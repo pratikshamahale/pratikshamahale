@@ -89,11 +89,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
 </p>
-
----
-
-## 🐍 Contribution Snake Animation (Last Section)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-</p>
