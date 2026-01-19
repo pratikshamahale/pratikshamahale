@@ -1,7 +1,7 @@
-# 🚀 Pratiksha Chavan | Data Analyst & AI Automation Engineer  
+# 🚀 Pratiksha Mahale | Data Analyst & AI Automation Engineer  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hi+I'm+Pratiksha+Chavan;Data+Analyst+%26+AI+Automation+Engineer;Python+%7C+ML+%7C+Power+BI+%7C+SQL;Building+Smart+AI+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hi+I'm+Pratiksha+Mahale;Data+Analyst+%26+AI+Automation+Engineer;Python+%7C+ML+%7C+Power+BI+%7C+SQL;Building+Smart+AI+Solutions" />
 </p>
 
 ---
